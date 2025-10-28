@@ -1,9 +1,9 @@
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=638fda&height=120&section=header"/>
+
 # 👩🏻‍💻 Leonardo Ramos
 
 **`Desenvolvedor FullStack`**
-
-Leonardo Ramos Barros da Silva
 
 Baiano natural de Salvador, tenho 27 anos e atualmente sou estudante de Engenharia de Software na Unicesumar.
 Meu foco é no desenvolvimento de sistemas robustos e escaláveis.
@@ -110,3 +110,24 @@ Tive a oportunidade de morar em Portugal por um ano e meio. Considero essa uma e
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leormms&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+<br clear="all" />
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+<div align="center">  
+<a href="https://www.instagram.com/leormms/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"</a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/leonardo-ramosss/" target="_blank">
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
+</a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=638fda&height=120&section=footer"/>
+
+
+          
